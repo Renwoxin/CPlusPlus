@@ -1,0 +1,3 @@
+﻿  nightTest.cpp
+h:\cpulsplus\chaptertwo\nighttest\nighttest\nighttest.cpp(28): warning C4018: “<”: 有符号/无符号不匹配
+  nightTest.vcxproj -> H:\CPulsPlus\chapterTWO\nightTest\Debug\nightTest.exe
