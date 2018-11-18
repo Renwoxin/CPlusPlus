@@ -3,9 +3,9 @@
 #include "stdafx.h"
 #include <iostream>
 #include <cmath>
-#include "demo.h"
-#include "arraydemo.h"
-#include "funcptr.h"
+//#include "demo.h"
+//#include "arraydemo.h"
+//#include "funcptr.h"
 #include "myCalc.h"
 #include <string>
 using namespace std;
@@ -17,7 +17,7 @@ int main()
 	//typedef double(*ptrCalc)(double, double);
 	//ptrCalc ptrCalc1;
 	double(*ptrCalc)(double, double);
-	ptrCalc = addition;
+	ptrCalc = NULL;
 	//auto ptrCalc = addition;
 	double num1, num2;
 	char op;

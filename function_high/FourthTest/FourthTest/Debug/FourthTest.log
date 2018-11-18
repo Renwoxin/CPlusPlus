@@ -1,0 +1,15 @@
+﻿  FourthTest.cpp
+h:\cpulsplus\function_high\fourthtest\fourthtest\fourthtest.cpp(128): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  h:\cpulsplus\function_high\fourthtest\fourthtest\fourthtest.cpp(55): note: 参见对正在编译的函数 模板 实例化“void Sort<float>(T [],int)”的引用
+          with
+          [
+              T=float
+          ]
+h:\cpulsplus\function_high\fourthtest\fourthtest\fourthtest.cpp(130): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+h:\cpulsplus\function_high\fourthtest\fourthtest\fourthtest.cpp(128): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  h:\cpulsplus\function_high\fourthtest\fourthtest\fourthtest.cpp(62): note: 参见对正在编译的函数 模板 实例化“void Sort<double>(T [],int)”的引用
+          with
+          [
+              T=double
+          ]
+  FourthTest.vcxproj -> H:\CPulsPlus\function_high\FourthTest\Debug\FourthTest.exe
